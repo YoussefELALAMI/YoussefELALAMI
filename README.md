@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Software+Engineer+%40+Capgemini;Full+Stack+Developer+%7C+DevOps;Java+Spring+Boot+%7C+Angular+Expert;Data+Processing+%26+Cloud+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Software+Engineer;Full+Stack+Developer+%7C+DevOps;Java+Spring+Boot+%7C+Angular+Expert;Data+Processing+%26+Cloud+Enthusiast)
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
