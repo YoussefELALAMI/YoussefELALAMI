@@ -110,7 +110,7 @@ public class YoussefElAlami implements SoftwareEngineer {
 [![Plantagon](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=Plantagon&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/YoussefELALAMI/Plantagon)
 *🌱 IoT Real-Time Monitoring Solution | React + Node.js + Raspberry Pi*
 
-[![ENSEIHT](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=ENSEIHT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/YoussefELALAMI/ENSEIHT)
+[![ENSEIHT](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=ENSEEIHT&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/YoussefELALAMI/ENSEIHT)
 *🎓 Academic Projects Collection | Various Technologies & Algorithms*
 
 [![Coding Challenges](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=coding-challenges&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/YoussefELALAMI/coding-challenges)
