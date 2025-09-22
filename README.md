@@ -7,8 +7,9 @@
 ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝
  ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  █████╗  
   ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝███████║███████║██║     ██║     
-   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝     
+   ██║   ╚██████╔╝╚██████╔╝███████║███████║███████ ██║     
+   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═╝     
+
 ```
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%40+Capgemini;Full+Stack+%7C+Java+Spring+Boot+%7C+Angular;Data+Processing+%26+Cloud+Architecture;Building+Tomorrow's+Solutions+Today)
