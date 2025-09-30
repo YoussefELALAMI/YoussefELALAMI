@@ -140,12 +140,6 @@
 **Tech Stack**: React • Node.js • Raspberry Pi • IoT Sensors  
 **Highlights**: Real-time monitoring • Hardware integration • Dashboard analytics
 
-### 🎓 **Academic Portfolio**
-[![ENSEEIHT](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=ENSEEIHT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YoussefELALAMI/ENSEIHT)
-
-**Tech Stack**: Various • Algorithms • Software Engineering  
-**Highlights**: Academic excellence • Diverse technologies • Problem-solving
-
 ### 🧩 **Coding Challenges**
 [![Coding Challenges](https://github-readme-stats.vercel.app/api/pin/?username=YoussefELALAMI&repo=coding-challenges&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YoussefELALAMI/coding-challenges)
 
