@@ -40,6 +40,7 @@ Building scalable, creative, and impactful software solutions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefELALAMI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" /> 
 </div>
+
 ---
 
 ## 🌍 Languages
