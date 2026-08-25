@@ -79,16 +79,16 @@ A growing collection of solved LeetCode problems in Java — sharpening algorith
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" alt="Youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefELALAMI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=86400"/>
-  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefELALAMI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=86400"/>
+  <img height="180em" alt="Youssef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefELALAMI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=3600"/>
+  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefELALAMI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=3600"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YoussefELALAMI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YoussefELALAMI&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_seconds=3600" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefELALAMI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefELALAMI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&cache_seconds=3600" alt="Contribution Graph" />
 </div>
 
 ---
