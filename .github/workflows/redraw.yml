@@ -1,0 +1,51 @@
+# Redraws the artwork in assets/ from live GitHub data.
+# If a run fails, nothing is committed and the page keeps its last good drawing.
+name: Redraw profile
+
+on:
+  schedule:
+    - cron: '17 3 * * 1' # Mondays, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'package-lock.json'
+      - '.github/workflows/redraw.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: redraw
+  cancel-in-progress: false
+
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --ignore-scripts
+
+      - run: npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if anything changed
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Nothing new to draw."
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Redraw from the latest GitHub activity'
+            git push
+          fi
